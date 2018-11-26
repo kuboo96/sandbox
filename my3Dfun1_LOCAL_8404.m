@@ -9,5 +9,5 @@ xlabel('x_A')
 ylabel('y_A')
 zlabel('z_A')
 grid on
-colormap hot
+colormap cool
 shading interp
